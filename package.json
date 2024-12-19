@@ -9,16 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.20",
+    "nodemailer": "^6.9.16",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.20"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/nodemailer": "^6.4.17",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.20"
+    "eslint-config-next": "14.2.20",
+    "typescript": "^5"
   }
 }
