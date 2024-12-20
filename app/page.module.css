@@ -91,6 +91,7 @@
   font-size: 24px;
   font-weight: 700;
   color: #0051de;
+  background-color: white;
   border: none;
   border-radius: 40px;
   cursor: pointer;
@@ -125,6 +126,7 @@
   display: flex;
   flex-direction: column;
   gap: 8px;
+  font-synthesis-weight: none;
 }
 .footerInfo em {
   font-weight: 700;
